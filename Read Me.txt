@@ -1,0 +1,3 @@
+For starting or changing between any of the adapters one of the following commands has to be placed in the VM arguments.-Dacquiringbank.class.name=BofACCAdapter 
+-Dacquiringbank.class.name=BofQCCAdapter 
+-Dacquiringbank.class.name=BofGCCAdapter
